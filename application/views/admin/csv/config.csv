@@ -1,0 +1,212 @@
+#prof,id = 1,name = ABAKE,,,
+#prof,id = 2,name = HOUNTANGNI,,,
+#prof,id = 3,name = GBATI,,,
+#prof,id = 4,name = KPAGANA,,,
+#prof,id = 5,name = ABOTSI,,,
+#prof,id = 6,name = AGBOBADA,,,
+#prof,id = 7,name = AHOUGNAN,,,
+#prof,id = 8,name = TOUMLA,,,
+#prof,id = 9,name = NONKOU,,,
+#prof,id = 10,name = ALIBDER,,,
+#prof,id = 11,name = MR X1,,,
+#prof,id = 12,name = ALOUGOUMA,,,
+#prof,id = 13,name = ATSOU-ATCHA,,,
+#prof,id = 14,name = TOUZIGUE,,,
+#prof,id = 15,name = ADIKOU,,,
+#prof,id = 16,name = BATABADI,,,
+#prof,id = 17,name = ATEBENA,,,
+#prof,id = 18,name = DJANTA,,,
+#prof,id = 19,name = KPEDZROKU,,,
+#prof,id = 20,name = DOUVI,,,
+#prof,id = 21,name = MR X2,,,
+#prof,id = 22,name = PATAKA,,,
+#prof,id = 23,name = AKPAVI,,,
+#prof,id = 24,name = LAMBONI,,,
+#prof,id = 25,name = AMOUSSOU,,,
+,,,,,
+#coursename,id = 1,name = PHILOSOPHIE,code = PH,,,
+#coursename,id = 2,name = Français,code = FR,,,
+#coursename,id = 3,name = HISTOIRE-GEOGRAPHIE,code = HG,,,
+#coursename,id = 4,name = EDUCATION CIVIQUE ET MORALE,code = ECM,,,
+#coursename,id = 5,name = ANGLAIS,code = ANG,,,
+#coursename,id = 6,name = ALLEMAND,code = ALL,,,
+#coursename,id = 7,name = ESPAGNOL,code = ESP,,,
+#coursename,id = 8,name = RUSSE,code = RUS,,,
+#coursename,id = 9,name = LATIN,code = LAT,,,
+#coursename,id = 10,name = LANGUE NATIONALE,code = EWE,,,
+#coursename,id = 11,name = MATHEMATIQUES,code = MATHS,,,
+#coursename,id = 12,name = PHYSIQUE-CHIMIE,code = PC,,,
+#coursename,id = 13,name = SCIENCE DE LA VIE ET DE LA TERRE,code = SVT,,,
+#coursename,id = 14,name = AGRICULTURE,code = AGRIC,,,
+#coursename,id = 15,name = EDUCATION PHYSIQUE ET SPORTIVE,code = EPS,,,
+#coursename,id = 16,name = DESSIN,code = DES,,,
+#coursename,id = 17,name = MUSIQUE,code = MUS,,,
+#coursename,id = 18,name = ENSEIGNEMENT MENAGER,code = EM,,,
+,,,,,
+#classe,id = 1,name = 6A,highschool = 0,,
+#classe,id = 2,name = 6B,highschool = 0,,
+#classe,id = 3,name = 6C,highschool = 0,,
+#classe,id = 4,name = 6D,highschool = 0,,
+#classe,id = 5,name = 5A,highschool = 0,,
+#classe,id = 6,name = 5B,highschool = 0,,
+#classe,id = 7,name = 5C,highschool = 0,,
+#classe,id = 8,name = 4A,highschool = 0,,
+#classe,id = 9,name = 4B,highschool = 0,,
+#classe,id = 10,name = 4C,highschool = 0,,
+#classe,id = 11,name = 3A,highschool = 0,,
+#classe,id = 12,name = 3B,highschool = 0,,
+#classe,id = 13,name = 3C,highschool = 0,,
+#classe,id = 14,name = 2A,highschool = 1,,
+#classe,id = 15,name = 2CD,highschool = 1,,
+#classe,id = 16,name = 1A,highschool = 1,,
+#classe,id = 17,name = 1D,highschool = 1,,
+#classe,id =18,name = TA,highschool = 1,,
+#classe,id =19,name = TD,highschool = 1,,
+,,,,,
+#course,professor = 1,coursename = 3,duration = 4,classe = 11
+#course,professor = 1,coursename = 3,duration = 4,classe = 13
+#course,professor = 1,coursename = 3,duration = 3,classe = 7
+#course,professor = 1,coursename = 2,duration = 5,classe = 12
+#course,professor = 1,coursename = 4,duration = 1,classe = 14
+#course,professor = 1,coursename = 4,duration = 1,classe = 8
+#course,professor = 1,coursename = 4,duration = 1,classe = 9
+#course,professor = 2,coursename = 3,duration = 3,classe = 8
+#course,professor = 2,coursename = 2,duration = 5,classe = 11
+#course,professor = 2,coursename = 2,duration = 5,classe = 9
+#course,professor = 2,coursename = 2,duration = 5,classe = 7
+#course,professor = 2,coursename = 4,duration = 1,classe = 15
+#course,professor = 2,coursename = 4,duration = 1,classe = 10
+#course,professor = 3,coursename = 3,duration = 4,classe = 17
+#course,professor = 3,coursename = 3,duration = 3,classe = 9
+#course,professor = 3,coursename = 3,duration = 3,classe = 3
+#course,professor = 3,coursename = 3,duration = 3,classe = 6
+#course,professor = 3,coursename = 2,duration = 5,classe = 5
+#course,professor = 3,coursename = 4,duration = 1,classe = 18
+#course,professor = 3,coursename = 4,duration = 1,classe = 17
+#course,professor = 4,coursename = 3,duration = 4,classe = 12
+#course,professor = 4,coursename = 3,duration = 3,classe = 1
+#course,professor = 4,coursename = 3,duration = 3,classe = 2
+#course,professor = 4,coursename = 2,duration = 5,classe = 13
+#course,professor = 4,coursename = 4,duration = 1,classe = 19
+#course,professor = 4,coursename = 4,duration = 1,classe = 16
+#course,professor = 4,coursename = 4,duration = 1,classe = 5
+#course,professor = 4,coursename = 4,duration = 1,classe = 6
+#course,professor = 5,coursename = 3,duration = 3,classe = 10
+#course,professor = 5,coursename = 3,duration = 3,classe = 5
+#course,professor = 5,coursename = 2,duration = 5,classe = 2
+#course,professor = 5,coursename = 2,duration = 5,classe = 6
+#course,professor = 5,coursename = 4,duration = 1,classe = 11
+#course,professor = 5,coursename = 4,duration = 1,classe = 12
+#course,professor = 5,coursename = 4,duration = 1,classe = 7
+#course,professor = 6,coursename = 5,duration = 4,classe = 12
+#course,professor = 6,coursename = 5,duration = 4,classe = 13
+#course,professor = 6,coursename = 5,duration = 4,classe = 10
+#course,professor = 6,coursename = 5,duration = 4,classe = 5
+#course,professor = 6,coursename = 5,duration = 4,classe = 3
+#course,professor = 7,coursename = 5,duration = 4,classe = 11
+#course,professor = 7,coursename = 5,duration = 4,classe = 8
+#course,professor = 7,coursename = 5,duration = 4,classe = 9
+#course,professor = 7,coursename = 5,duration = 4,classe = 2
+#course,professor = 7,coursename = 2,duration = 5,classe = 1
+#course,professor = 8,coursename = 5,duration = 4,classe = 6
+#course,professor = 8,coursename = 5,duration = 4,classe = 7
+#course,professor = 8,coursename = 5,duration = 4,classe = 1
+#course,professor = 8,coursename = 2,duration = 5,classe = 3
+#course,professor = 8,coursename = 4,duration = 1,classe = 1
+#course,professor = 8,coursename = 4,duration = 1,classe = 2
+#course,professor = 9,coursename = 11,duration = 4,classe = 11
+#course,professor = 9,coursename = 11,duration = 4,classe = 8
+#course,professor = 9,coursename = 11,duration = 4,classe = 9
+#course,professor = 10,coursename = 11,duration = 4,classe = 10
+#course,professor = 10,coursename = 11,duration = 4,classe = 1
+#course,professor = 10,coursename = 11,duration = 4,classe = 2
+#course,professor = 10,coursename = 11,duration = 4,classe = 3
+#course,professor = 10,coursename = 11,duration = 4,classe = 12
+#course,professor = 10,coursename = 11,duration = 2,classe = 5
+#course,professor = 11,coursename = 11,duration = 4,classe = 5
+#course,professor = 11,coursename = 11,duration = 4,classe = 7
+#course,professor = 11,coursename = 12,duration = 4,classe = 11
+#course,professor = 11,coursename = 12,duration = 4,classe = 9
+#course,professor = 11,coursename = 12,duration = 4,classe = 10
+#course,professor = 11,coursename = 12,duration = 2,classe = 6
+#course,professor = 12,coursename = 11,duration = 3,classe = 14
+#course,professor = 12,coursename = 11,duration = 4,classe = 11
+#course,professor = 12,coursename = 11,duration = 4,classe = 13
+#course,professor = 12,coursename = 11,duration = 4,classe = 6
+#course,professor = 12,coursename = 12,duration = 4,classe = 8
+#course,professor = 12,coursename = 12,duration = 2,classe = 3
+#course,professor = 13,coursename = 12,duration = 4,classe = 12
+#course,professor = 13,coursename = 12,duration = 4,classe = 13
+#course,professor = 13,coursename = 12,duration = 2,classe = 5
+#course,professor = 13,coursename = 12,duration = 2,classe = 7
+#course,professor = 13,coursename = 12,duration = 2,classe = 1
+#course,professor = 13,coursename = 12,duration = 2,classe = 2
+#course,professor = 13,coursename = 13,duration = 4,classe = 11
+#course,professor = 13,coursename = 13,duration = 2,classe = 3
+#course,professor = 14,coursename = 13,duration = 4,classe = 13
+#course,professor = 14,coursename = 13,duration = 2,classe = 6
+#course,professor = 14,coursename = 13,duration = 2,classe = 7
+#course,professor = 14,coursename = 13,duration = 3,classe = 8
+#course,professor = 14,coursename = 13,duration = 3,classe = 9
+#course,professor = 14,coursename = 13,duration = 3,classe = 10
+#course,professor = 14,coursename = 13,duration = 2,classe = 1
+#course,professor = 14,coursename = 13,duration = 2,classe = 2
+#course,professor = 15,coursename = 15,duration = 1,classe = 1
+#course,professor = 15,coursename = 15,duration = 1,classe = 3
+#course,professor = 15,coursename = 15,duration = 1,classe = 6
+#course,professor = 15,coursename = 15,duration = 1,classe = 8
+#course,professor = 15,coursename = 15,duration = 1,classe = 9
+#course,professor = 15,coursename = 15,duration = 1,classe = 12
+#course,professor = 15,coursename = 15,duration = 1,classe = 14
+#course,professor = 15,coursename = 15,duration = 1,classe = 16
+#course,professor = 15,coursename = 15,duration = 1,classe = 18
+#course,professor = 16,coursename = 15,duration = 1,classe = 2
+#course,professor = 16,coursename = 15,duration = 1,classe = 5
+#course,professor = 16,coursename = 15,duration = 1,classe = 6
+#course,professor = 16,coursename = 15,duration = 1,classe = 9
+#course,professor = 16,coursename = 15,duration = 1,classe = 11
+#course,professor = 16,coursename = 15,duration = 1,classe = 13
+#course,professor = 16,coursename = 15,duration = 1,classe = 15
+#course,professor = 16,coursename = 15,duration = 1,classe = 17
+#course,professor = 16,coursename = 15,duration = 1,classe = 19
+#course,professor = 17,coursename = 2,duration = 2,classe = 19
+#course,professor = 17,coursename = 2,duration = 6,classe = 16
+#course,professor = 17,coursename = 2,duration = 5,classe = 8
+#course,professor = 17,coursename = 2,duration = 5,classe = 10
+#course,professor = 18,coursename = 2,duration = 3,classe = 18
+#course,professor = 18,coursename = 2,duration = 5,classe = 16
+#course,professor = 18,coursename = 2,duration = 6,classe = 14
+#course,professor = 18,coursename = 2,duration = 5,classe = 15
+#course,professor = 19,coursename = 5,duration = 2,classe = 18
+#course,professor = 19,coursename = 5,duration = 2,classe = 19
+#course,professor = 19,coursename = 5,duration = 3,classe = 16
+#course,professor = 19,coursename = 5,duration = 3,classe = 17
+#course,professor = 19,coursename = 5,duration = 4,classe = 14
+#course,professor = 19,coursename = 5,duration = 3,classe = 15
+#course,professor = 20,coursename = 6,duration = 3,classe = 18
+#course,professor = 20,coursename = 6,duration = 4,classe = 16
+#course,professor = 20,coursename = 6,duration = 4,classe = 14
+#course,professor = 21,coursename = 1,duration = 8,classe = 18
+#course,professor = 21,coursename = 1,duration = 3,classe = 19
+#course,professor = 22,coursename = 3,duration = 4,classe = 19
+#course,professor = 22,coursename = 3,duration = 4,classe = 18
+#course,professor = 22,coursename = 3,duration = 4,classe = 16
+#course,professor = 22,coursename = 3,duration = 4,classe = 14
+#course,professor = 22,coursename = 3,duration = 4,classe = 15
+#course,professor = 23,coursename = 13,duration = 2,classe = 18
+#course,professor = 23,coursename = 13,duration = 6,classe = 19
+#course,professor = 23,coursename = 13,duration = 2,classe = 16
+#course,professor = 23,coursename = 13,duration = 5,classe = 17
+#course,professor = 23,coursename = 13,duration = 3,classe = 15
+#course,professor = 24,coursename = 11,duration = 2,classe = 18
+#course,professor = 24,coursename = 11,duration = 6,classe = 19
+#course,professor = 24,coursename = 11,duration = 2,classe = 16
+#course,professor = 24,coursename = 11,duration = 5,classe = 17
+#course,professor = 24,coursename = 11,duration = 5,classe = 15
+#course,professor = 25,coursename = 12,duration = 2,classe = 18
+#course,professor = 25,coursename = 12,duration = 6,classe = 19
+#course,professor = 25,coursename = 12,duration = 2,classe = 16
+#course,professor = 25,coursename = 12,duration = 5,classe = 17
+#course,professor = 25,coursename = 12,duration = 3,classe = 14
+#course,professor = 25,coursename = 12,duration = 5,classe = 15
+#course,professor = 25,coursename = 15,duration = 1,classe = 4

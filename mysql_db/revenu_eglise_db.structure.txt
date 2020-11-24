@@ -1,0 +1,15 @@
+auth
+article-------------id name categorie Categorie created code no_cpte
+Categorie-------------id name created comment code
+groups-------------id name description
+informations_eglise-------------id logo name quartier type
+login_attempts
+categorie-------------id name prenoms article created telephone1 telephone2
+vente-------------id type valeur trashed article created comment
+type_vente-------------id name code created
+type_utilisation-------------id name
+
+vues
+
+article_view
+categorie_view

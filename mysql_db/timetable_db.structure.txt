@@ -1,0 +1,8 @@
+auth 
+classe----------------created highschool id name
+course----------------comment coursenameClasse created id prof
+coursename----------------code created id name
+coursename_classe----------------classe courseName duration id
+groups
+login_attempts
+professor----------------code created id name prenoms

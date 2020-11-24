@@ -1,0 +1,15 @@
+TYPE=VIEW
+query=select `vente_eglise_db`.`article`.`id` AS `id`,`vente_eglise_db`.`article`.`name` AS `name`,`vente_eglise_db`.`article`.`code` AS `code`,`vente_eglise_db`.`article`.`Categorie` AS `Categorie`,`vente_eglise_db`.`article`.`created` AS `created`,`vente_eglise_db`.`article`.`categorie` AS `categorie` from `vente_eglise_db`.`article`
+md5=f38c8408c7eda3aaba039f9476fb73e7
+updatable=1
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=2
+with_check_option=0
+timestamp=2018-11-16 13:42:30
+create-version=1
+source=SELECT * from article
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_general_ci
+view_body_utf8=select `vente_eglise_db`.`article`.`id` AS `id`,`vente_eglise_db`.`article`.`name` AS `name`,`vente_eglise_db`.`article`.`code` AS `code`,`vente_eglise_db`.`article`.`Categorie` AS `Categorie`,`vente_eglise_db`.`article`.`created` AS `created`,`vente_eglise_db`.`article`.`categorie` AS `categorie` from `vente_eglise_db`.`article`
