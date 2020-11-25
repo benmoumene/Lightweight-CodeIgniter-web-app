@@ -1,12 +1,12 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
  
-class pdf {
+class Pdf {
     
-    function pdf()
+    /*function pdf()
     {
         $CI = & get_instance();
         log_message('Debug', 'mPDF class is loaded.');
-    }
+    }*/
  
     function load($param=NULL)
     {
